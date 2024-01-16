@@ -1,0 +1,5 @@
+.btn-back-to-home {
+    border: none;
+    font-size: 13px;
+    background-color: var(--primary-color);
+}
